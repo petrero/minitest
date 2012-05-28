@@ -17,3 +17,5 @@ class HelperTest < MiniTest::Spec
   include ActionView::TestCase::Behavior
   register_spec_type(/Helper$/, self)
 end
+
+Turn.config.format =  :outline
