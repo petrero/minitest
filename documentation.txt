@@ -1,0 +1,6 @@
+http://docs.seattlerb.org/minitest/
+
+
+
+https://github.com/ordinaryzelig/capybara_minitest_spec
+https://github.com/blowmage/minitest-rails
